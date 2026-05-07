@@ -1,0 +1,135 @@
+h1 {
+  color: #4c8341;
+}
+
+#menu {
+  background-color: #0c1a9b;
+  /*fondo de la barra completa*/
+  padding: 15px;
+  /*una margen en la barra*/
+  box-shadow: 5px 2px 5px 2px rgb(66, 3, 130);
+
+}
+
+#menu li {
+
+  list-style: none;
+  /*no tenga estilo alguno --- quitar puntos en los li*/
+  display: inline-block;
+  /*alinear cada item y que no tenga espacio como enter*/
+  font: bold 20px;
+  /*le demos negrita a los items*/
+  padding-left: 50px;
+  /*una margen a la izquierda de cada item*/
+
+}
+
+a {
+  text-decoration: none;
+  /*vinculo sin linea */
+  color: white;
+  /*letra en blanco*/
+}
+
+#servicios {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+#image1-serv {
+  /* border: 1px solid black; */
+  width: 25%;
+  height: 300px;
+  background-color: #a98556;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 2px gray;
+}
+
+#image2-serv {
+  /* border: 1px solid black; */
+  width: 25%;
+  height: 300px;
+  background-color: #a98556;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 2px gray;
+}
+
+#image3-serv {
+  /* border: 1px solid black; */
+  width: 25%;
+  height: 300px;
+  background-color: #a98556;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 2px gray;
+}
+
+.imgServ {
+  width: 100%;
+}
+
+#contenidoPpal
+{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+  background-color: #af7849;
+  padding: 50px;
+}
+
+
+#cajvideo
+{
+  width: 40%;
+}
+#textoPpal
+{
+  width: 40%;
+}
+
+#video
+{
+  width: 100%;
+  border-radius: 20px;
+}
+
+#registro
+{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+  
+}
+#tabla
+{
+  width: 45%;
+
+}
+#formulario
+{
+   width: 45%;
+}
+table
+{
+  width: 100%;
+  height: 400px;
+}
+
+#contenidoFooter
+{
+  display: flex;
+  padding: 150px;
+  justify-content: space-evenly;
+   background-color: #af7849;
+   margin-top: 30px;
+}
+#cont1
+{
+  width: 40%;
+}
+#cont2
+{
+  width: 40%;
+
+}
