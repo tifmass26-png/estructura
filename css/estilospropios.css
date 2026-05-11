@@ -3,11 +3,11 @@ h1 {
 }
 
 #menu {
-  background-color: #0c1a9b;
+  background-color: #7e11c2;
   /*fondo de la barra completa*/
   padding: 15px;
   /*una margen en la barra*/
-  box-shadow: 5px 2px 5px 2px rgb(66, 3, 130);
+  box-shadow: 5px 2px 5px 2px black;
 
 }
 
@@ -27,7 +27,7 @@ h1 {
 a {
   text-decoration: none;
   /*vinculo sin linea */
-  color: white;
+  color: rgb(17, 4, 4);
   /*letra en blanco*/
 }
 
@@ -42,7 +42,7 @@ a {
   /* border: 1px solid black; */
   width: 25%;
   height: 300px;
-  background-color: #a98556;
+  background-color: #000000;
   border-radius: 5px;
   box-shadow: 5px 5px 15px 2px gray;
 }
@@ -51,7 +51,7 @@ a {
   /* border: 1px solid black; */
   width: 25%;
   height: 300px;
-  background-color: #a98556;
+  background-color: #000000;
   border-radius: 5px;
   box-shadow: 5px 5px 15px 2px gray;
 }
@@ -60,7 +60,7 @@ a {
   /* border: 1px solid black; */
   width: 25%;
   height: 300px;
-  background-color: #a98556;
+  background-color: #000000;
   border-radius: 5px;
   box-shadow: 5px 5px 15px 2px gray;
 }
@@ -74,7 +74,7 @@ a {
   display: flex;
   justify-content: space-evenly;
   margin-top: 50px;
-  background-color: #af7849;
+  background-color: #121214;
   padding: 50px;
 }
 
@@ -121,7 +121,7 @@ table
   display: flex;
   padding: 150px;
   justify-content: space-evenly;
-   background-color: #af7849;
+   background-color: #0a0806;
    margin-top: 30px;
 }
 #cont1
